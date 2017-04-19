@@ -17,7 +17,7 @@ How to :
 
 ---------------
 
-Check my other repo for more tutorial or automaton framework
+Check my other repo for more tutorial or automation framework
 
 ---------------
 
